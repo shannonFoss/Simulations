@@ -1,0 +1,291 @@
+T:0 - CHI 236
+Start Time=
+Final Time=7748.912868094021
+Total Containers In=236
+Total Containers Out=236
+Total Containers In Grid=701
+Avg Container Time=7748.582359619419
+% of grid filled=35.05%
+350	318	348	284	338	300	268	302	274	234	547	
+T:1 - DET 251
+Start Time=9640.543536303794
+Final Time=18385.657969407253
+Total Containers In=487
+Total Containers Out=313
+Total Containers In Grid=875
+Avg Container Time=9903.31612610218
+% of grid filled=43.75%
+741	710	946	766	717	768	705	800	582	738	1169	
+
+T:0 - CHI 241
+Start Time=
+Final Time=9596.593932125832
+Total Containers In=241
+Total Containers Out=241
+Total Containers In Grid=701
+Avg Container Time=9596.241235030335
+% of grid filled=35.05%
+505	274	280	322	278	244	306	312	266	282	693	
+T:1 - CHI 267
+Start Time=9596.593932125832
+Final Time=17362.041648015766
+Total Containers In=508
+Total Containers Out=455
+Total Containers In Grid=753
+Avg Container Time=10991.946152923549
+% of grid filled=37.65%
+892	588	599	754	523	671	619	591	557	633	1138	
+
+T:0 - KCK 257
+Start Time=
+Final Time=8622.217931490519
+Total Containers In=257
+Total Containers Out=51
+Total Containers In Grid=906
+Avg Container Time=8622.002245216003
+% of grid filled=45.300000000000004%
+406	507	554	584	517	671	647	534	463	502	591	
+T:1 - MEM 230
+Start Time=8622.217931490519
+Final Time=18179.579011551294
+Total Containers In=487
+Total Containers Out=190
+Total Containers In Grid=997
+Avg Container Time=14570.224129933478
+% of grid filled=49.85%
+886	942	1129	977	1143	1067	1091	966	1128	821	1230	
+
+T:0 - DFW 250
+Start Time=
+Final Time=8930.384313720542
+Total Containers In=250
+Total Containers Out=92
+Total Containers In Grid=858
+Avg Container Time=8930.16692241619
+% of grid filled=42.9%
+616	514	287	429	594	469	456	439	450	358	552	
+T:1 - CHI 206
+Start Time=11443.83677925287
+Final Time=18598.65618371009
+Total Containers In=456
+Total Containers Out=298
+Total Containers In Grid=858
+Avg Container Time=12579.860487065767
+% of grid filled=42.9%
+1030	902	583	619	886	695	664	671	776	564	1331	
+
+T:0 - ATL 275
+Start Time=
+Final Time=8603.79271054777
+Total Containers In=275
+Total Containers Out=61
+Total Containers In Grid=915
+Avg Container Time=8603.514022023168
+% of grid filled=45.75%
+672	520	601	463	481	503	486	585	501	521	540	
+T:1 - CMH 263
+Start Time=11471.597677133332
+Final Time=19693.26802317635
+Total Containers In=538
+Total Containers Out=85
+Total Containers In Grid=1154
+Avg Container Time=10924.872962786423
+% of grid filled=57.699999999999996%
+1396	1071	1261	854	1036	1128	1063	1265	1027	1166	1179	
+
+
+
+
+	
+T:0 - CHI 173
+Start Time=
+Final Time=5441.354852335807
+Total Containers In=173
+Total Containers Out=173
+Total Containers In Grid=699
+Avg Container Time=5440.880863896485
+% of grid filled=34.949999999999996%
+258	178	158	180	184	192	229	140	106	146	351	318	369	
+T:1 - CLE 270
+Start Time=10715.969074611941
+Final Time=19040.585416612135
+Total Containers In=443
+Total Containers Out=204
+Total Containers In Grid=938
+Avg Container Time=7087.263650843989
+% of grid filled=46.9%
+698	782	703	586	660	722	842	514	668	693	1117	889	1114	
+
+T:0 - DFW 251
+Start Time=
+Final Time=8331.471979487345
+Total Containers In=251
+Total Containers Out=70
+Total Containers In Grid=882
+Avg Container Time=8331.257693773054
+% of grid filled=44.1%
+441	557	574	420	398	396	463	528	440	495	454	442	427	
+T:1 - HOU 274
+Start Time=8478.599404273351
+Final Time=17806.725066408348
+Total Containers In=525
+Total Containers Out=225
+Total Containers In Grid=1000
+Avg Container Time=13652.792190758508
+% of grid filled=50.0%
+896	1196	1262	848	951	891	936	1018	809	1008	1065	921	951	
+
+T:0 - DET 265
+Start Time=
+Final Time=9105.495193808027
+Total Containers In=265
+Total Containers Out=56
+Total Containers In Grid=910
+Avg Container Time=9105.173765236606
+% of grid filled=45.5%
+575	650	438	510	502	356	553	459	464	505	532	489	423	
+T:1 - BAL 261
+Start Time=10957.944720320551
+Final Time=19427.335845462676
+Total Containers In=526
+Total Containers Out=105
+Total Containers In Grid=1120
+Avg Container Time=12565.408627778603
+% of grid filled=56.00000000000001%
+1176	1348	814	1182	975	781	1178	1059	952	1210	1211	1096	957	
+
+T:0 - CHI 162
+Start Time=
+Final Time=5475.08227353486
+Total Containers In=162
+Total Containers Out=162
+Total Containers In Grid=699
+Avg Container Time=5474.681038966949
+% of grid filled=34.949999999999996%
+268	192	150	214	174	178	234	204	162	162	385	357	347	
+T:1 - CHI 237
+Start Time=10890.308010898028
+Final Time=18150.610372493928
+Total Containers In=399
+Total Containers Out=399
+Total Containers In Grid=699
+Avg Container Time=10301.883442393006
+% of grid filled=34.949999999999996%
+488	558	434	562	480	420	560	498	331	406	999	912	929	
+
+T:0 - COR 249
+Start Time=
+Final Time=8288.518745463969
+Total Containers In=249
+Total Containers Out=30
+Total Containers In Grid=918
+Avg Container Time=8288.28541213064
+% of grid filled=45.9%
+615	606	607	465	443	430	418	454	518	396	523	432	456	
+T:1 - HOU 200
+Start Time=9117.71804158757
+Final Time=17057.940943030448
+Total Containers In=449
+Total Containers Out=163
+Total Containers In Grid=986
+Avg Container Time=13989.386740525708
+% of grid filled=49.3%
+1087	1020	1081	794	881	787	669	913	983	746	1005	900	928	
+
+
+
+
+T:0 - CHI 234
+Start Time=
+Final Time=7823.762373849124
+Total Containers In=234
+Total Containers Out=234
+Total Containers In Grid=698
+Avg Container Time=7823.36921145594
+% of grid filled=34.9%
+314	280	292	384	254	282	258	336	338	230	419	450	409	442	
+T:1 - CLE 235
+Start Time=9209.795606981235
+Final Time=16964.410148866424
+Total Containers In=469
+Total Containers Out=276
+Total Containers In Grid=892
+Avg Container Time=8880.676324866909
+% of grid filled=44.6%
+762	862	650	868	641	702	568	777	622	658	868	903	825	977	
+
+T:0 - BAL 260
+Start Time=
+Final Time=8526.95202351056
+Total Containers In=260
+Total Containers Out=33
+Total Containers In Grid=926
+Avg Container Time=8526.73990229844
+% of grid filled=46.300000000000004%
+519	593	465	418	531	452	570	528	594	539	389	443	450	419	
+T:1 - CHI 262
+Start Time=9019.02123082457
+Final Time=17232.301784936073
+Total Containers In=522
+Total Containers Out=295
+Total Containers In Grid=925
+Avg Container Time=13262.042046807735
+% of grid filled=46.25%
+929	1033	889	776	911	748	992	818	1076	943	991	998	1031	1025	
+
+T:0 - DFW 217
+Start Time=
+Final Time=7749.3162097071945
+Total Containers In=217
+Total Containers Out=77
+Total Containers In Grid=838
+Avg Container Time=7749.017508408486
+% of grid filled=41.9%
+427	362	415	329	383	417	358	505	316	497	387	398	384	450	
+T:1 - MEM 233
+Start Time=9677.12920141411
+Final Time=18651.969644584875
+Total Containers In=450
+Total Containers Out=203
+Total Containers In Grid=945
+Avg Container Time=12990.804871526572
+% of grid filled=47.25%
+994	648	975	833	829	875	623	951	735	916	1066	893	958	1083	
+
+T:0 - CHI 270
+Start Time=
+Final Time=9043.922795080378
+Total Containers In=270
+Total Containers Out=270
+Total Containers In Grid=699
+Avg Container Time=9043.537609895206
+% of grid filled=34.949999999999996%
+442	452	368	226	408	324	348	376	360	210	466	493	489	461	
+T:1 - CHI 202
+Start Time=9200.050016528554
+Final Time=15927.244020319496
+Total Containers In=472
+Total Containers Out=420
+Total Containers In Grid=751
+Avg Container Time=9968.662515625345
+% of grid filled=37.55%
+762	751	602	427	679	524	567	620	640	474	731	706	740	773	
+
+T:0 - CLT 203
+Start Time=
+Final Time=6208.838090355076
+Total Containers In=203
+Total Containers Out=16
+Total Containers In Grid=886
+Avg Container Time=6208.338090355075
+% of grid filled=44.3%
+409	445	287	403	368	374	417	431	369	437	405	389	376	446	
+T:1 - CLT 169
+Start Time=9788.699275125553
+Final Time=14950.804908379108
+Total Containers In=372
+Total Containers Out=18
+Total Containers In Grid=1055
+Avg Container Time=6092.090039566017
+% of grid filled=52.75%
+756	895	681	809	752	666	765	768	675	835	936	825	731	1074	
